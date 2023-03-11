@@ -4,3 +4,5 @@ require './question'
 
 game = Game.new
 p game.start_game
+
+# PEER-PROGRAMMED WITH CHRISTIAN ALPHONSE
